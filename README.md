@@ -1,5 +1,5 @@
 # Welcome to my profile.
-### *_ keep your eyes to yourself _*
+### **_ keep your eyes to yourself _**
 
 - 👋 I’m **Yaniv**.
 - 🌱 I’m currently learning **CCNA & Cyber Security**.
